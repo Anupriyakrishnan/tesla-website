@@ -1,0 +1,603 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 55px;
+    background-color:#f4f4f4;
+    position: fixed;
+}
+.text-head{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 440px;
+}
+.para-header{
+    color:#2d2c2c;
+    font-size: 14px;
+    font-family: -apple-system, Arial, sans-serif;
+}
+.button-header{
+    background: none;
+    border: none;
+    font-family: -apple-system, Arial, sans-serif;
+    font-size: 14px;
+    color: #2d2c2c;
+}
+
+.image-1{
+    background-image: url("images/image-1-resize.jpg");
+    width: 100%;
+    height: 672px;
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.logo{
+    padding-top: 70px;
+}
+.stn-1-head{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 30px;
+    
+}
+.login-button{
+    display: flex;
+    list-style-type: none;
+    padding-top: 70px;    
+}
+.icons{
+    padding-top: 70px;
+}
+.login{
+    padding-left: 410px;
+    
+}
+.btn-1{
+    padding-right: 35px;
+}
+.btn-2{
+    padding-right : 35px;
+}
+.btn-3{
+    padding-right: 35px;
+}
+.btn-4{
+    padding-right: 35px; 
+}
+.btn-5{
+    padding-right: 35px;
+}
+.btn-6{
+    padding-right: 35px;
+}
+.button{
+    background: none;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+.icons{
+    padding-left: 280px;
+    display: flex;
+    gap: 20px;
+   
+}
+.icon-1{
+    width: 30px;
+    height: 25px;
+    padding-right: 10px;
+    background: none;
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.stn-1{
+    padding-top: 55px;
+    text-align: center;
+}
+.text{
+    color: white;
+    font-size: 55px;
+    padding-left: 20px;
+}
+
+.btn-model {
+    display: flex; 
+    gap: 40px; 
+   padding-left: 520px;
+   padding-top: 30px;
+}
+
+ .btn-model a {
+    text-decoration: none;
+    padding: 10px 60px;
+    background-color: #fbfdfe;
+    color: rgb(9, 9, 9);
+    border-radius: 5px;
+    display: inline-block;
+    font-family: -apple-system, Arial, sans-serif;
+}
+.btn-model .btn-one a{
+    color: white;
+    background-color: #3e6ae1;
+}
+.image-2{
+    background-image: url("images/image-2-resize.jpg");
+    width: 100%;
+    height: 672px;
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.banner-1{
+    padding-top: 64px;
+    text-align: center;
+}
+.text-2{
+    color: white;
+    font-size: 55px;
+    font-family: -apple-system, Arial, sans-serif;
+}
+.text-2-2{
+    color: white;
+    font-size: 30px;
+    text-decoration-line: underline;
+    font-family: -apple-system, Arial, sans-serif;
+    font-weight: bold;
+}
+.para-3{
+    color: white;
+    font-size: 19px;
+    font-family: -apple-system, Arial, sans-serif;
+    font-weight: bold;
+    line-height: 3;
+}.btn-model-1 {
+    display: flex; 
+    gap: 40px; 
+   padding-left: 520px;
+   padding-top: 390px;
+   border: none;
+}
+.btn-one{
+    background-color: #3e6ae1;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    
+}
+.btn-one a{
+    color: white;
+}
+button{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    
+}
+button a{
+    color:rgb(9, 9, 9);
+}
+
+ .btn-model-1 a {
+    text-decoration: none;
+    padding: 10px 60px;
+    border-radius: 5px;
+    display: inline-block;
+    
+    font-family: -apple-system, Arial, sans-serif;
+ }
+
+.image-3{
+    background-image: url("images/image-3_resize.jpg");
+    width: 100%;
+    height: 672px;
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+
+}
+.banner-2{
+    
+    padding-top: 64px;
+    text-align: center;
+}
+.text-3{
+    color: white;
+    font-size: 55px;
+    font-family: -apple-system, Arial, sans-serif;
+}
+.text-3-3{
+    color: white;
+    font-size: 30px;
+    text-decoration-line: underline;
+    font-family: -apple-system, Arial, sans-serif;
+    font-weight: bold;
+}
+.para-4{
+    color: white;
+    font-size: 15px;
+    font-family: -apple-system, Arial, sans-serif;
+    font-weight: bold;
+    line-height: 3;
+}
+.btn-model-2 {
+    display: flex;
+    gap: 40px; 
+   padding-left: 520px;
+   padding-top: 390px;
+}
+
+ .btn-model-2 a {
+    text-decoration: none;
+    padding: 10px 60px;
+    border-radius: 5px;
+    display: inline-block;
+    font-family: -apple-system, Arial, sans-serif;
+ }
+
+.image-4{
+    background-image: url("images/image-4-resize.jpg");
+    width: 100%;
+    height: 650px;
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+
+.banner-3{
+    padding-top: 64px;
+    text-align: center;
+}
+.text-4{
+    color: white;
+    font-size: 55px;
+    font-family: -apple-system, Arial, sans-serif; 
+}
+.para-5{
+    color: white;
+    font-size: 30px;
+    font-family: -apple-system, Arial, sans-serif;
+    font-weight: bold;
+}
+.button-5{
+    color: white;
+    font-size: 20px;
+    text-decoration-line: underline;
+    font-family: -apple-system, Arial, sans-serif;
+    font-weight: bold;
+}.btn-model-3 {
+    display: flex;
+    gap: 40px; 
+   padding-left: 520px;
+   padding-top: 365px;
+}
+
+ .btn-model-3 a {
+    text-decoration: none;
+    padding: 10px 60px;
+    border-radius: 5px;
+    display: inline-block;
+    font-family: -apple-system, Arial, sans-serif;
+}
+
+.image-5{
+    background-image: url("images/image-5-resize.jpg");
+    width: 100%;
+    height: 720px;
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.banner-4{
+    padding-top: 64px;
+    text-align: center;
+}
+.text-5{
+    color: white;
+    font-size: 55px;
+    font-family: -apple-system, Arial, sans-serif; 
+}
+.para-6{
+    color: white;
+    font-size: 30px;
+    font-family: -apple-system, Arial, sans-serif;
+    font-weight: bold;
+}
+.button-6{
+    color: white;
+    font-size: 20px;
+    text-decoration-line: underline;
+    font-family: -apple-system, Arial, sans-serif;
+    font-weight: bold;
+}.btn-model-4 {
+    display: flex; 
+    gap: 40px;
+   padding-left: 520px;
+   padding-top: 420px;
+}
+
+ .btn-model-4 a {
+    text-decoration: none;
+    padding: 10px 60px;
+    border-radius: 5px;
+    display: inline-block;
+    font-family: -apple-system, Arial, sans-serif;
+}
+.image-6{
+    background-image: url("images/image-6-resize.jpg");
+    width: 100%;
+    height: 720px;
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.logo-red{
+    height: 100px;
+    width: 270px;
+    padding-left: 590px;
+    padding-top: 70px;
+}
+.para-7{
+        color: white;
+        font-size: 25px;
+        font-family: -apple-system, Arial, sans-serif;
+        font-weight: bold;
+        padding-left: 550px;
+}
+.btn-model-5 {
+    display: flex; 
+    gap: 40px;
+   padding-left: 520px;
+   padding-top: 420px;
+}
+
+ .btn-model-5 a {
+    text-decoration: none;
+    padding: 10px 60px;
+    background-color: #050708;
+    color: rgb(253, 245, 245);
+    border-radius: 5px;
+    display: inline-block;
+    font-family: -apple-system, Arial, sans-serif;
+}
+.image-7{
+    background-image: url("images/solar-resize.jpg");
+    width: 100%;
+    height: 730px;
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.banner-6{
+    padding-top: 64px;
+    text-align: center;
+}
+.text-6{
+        color: white;
+        font-size: 55px;
+        font-family: -apple-system, Arial, sans-serif; 
+    
+}
+.para-8{
+    color: white;
+    font-size: 25px;
+    font-family: -apple-system, Arial, sans-serif;
+    font-weight: bold;
+    padding-left: 60px;
+}
+.button-8{
+    
+        color: white;
+        font-size: 20px;
+        text-decoration-line: underline;
+        font-family: -apple-system, Arial, sans-serif;
+        font-weight: bold;
+}
+.btn-model-6 {
+    display: flex;
+    gap: 40px; 
+   padding-left: 520px;
+   padding-top: 485px;
+}
+
+ .btn-model-6 a {
+    text-decoration: none;
+    padding: 10px 60px;
+    border-radius: 5px;
+    display: inline-block;
+    font-family: -apple-system, Arial, sans-serif;
+}
+.image-8{
+    background-image: url("images/solar22-resize.jpg");
+    width: 100%;
+    height: 730px;
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.banner-7{
+    padding-top: 64px;
+    text-align: center;
+}
+.text-7{
+    color: white;
+    font-size: 55px;
+    font-family: -apple-system, Arial, sans-serif;
+     
+}
+.btn-model-7 {
+    display: flex; 
+    gap: 40px; 
+   padding-left: 520px;
+   padding-top: 480px;
+}
+
+ .btn-model-7 a {
+    text-decoration: none;
+    padding: 10px 60px;
+    border-radius: 5px;
+    display: inline-block;
+    font-family: -apple-system, Arial, sans-serif;
+}
+.image-9{
+    background-image: url("images/powerwall.jpg");
+    width: 100%;
+    height: 730px;
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.banner-8{
+    padding-top: 64px;
+    text-align: center;
+}
+.text-8{
+    color: white;
+    font-size: 55px;
+    font-family: -apple-system, Arial, sans-serif; 
+}
+.btn-model-8 {
+    display: flex;
+    gap: 40px; 
+   padding-left: 520px;
+   padding-top: 490px;
+}
+
+ .btn-model-8 a {
+    text-decoration: none;
+    padding: 10px 60px;
+    border-radius: 5px;
+    display: inline-block;
+    font-family: -apple-system, Arial, sans-serif;
+}
+.image-10{
+    background-image: url("images/accessories-resize.jpg");
+    width: 100%;
+    height: 730px;
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.banner-9{
+    padding-top: 64px;
+    text-align: center;
+}
+.text-9{
+    color: white;
+    font-size: 55px;
+    font-family: -apple-system, Arial, sans-serif; 
+}
+.btn-model-9 {
+    display: flex; 
+    gap: 40px;
+   padding-left: 720px;
+   padding-top: 490px;
+}
+
+ .btn-model-9 a {
+    text-decoration: none;
+    padding: 10px 60px;
+    border-radius: 5px;
+    display: inline-block;
+    font-family: -apple-system, Arial, sans-serif;
+}
+.image-11{
+    background-image: url("images/accessories-resize.jpg");
+    width: 100%;
+    height: 730px;
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.banner-10{
+    padding-top: 520px;
+    
+}
+.text-10{
+    color: rgb(255, 248, 248);
+    font-size: 55px;
+    font-family: -apple-system, Arial, sans-serif; 
+}
+.btn-model-10 {
+    display: flex;
+    gap: 40px;
+   padding-left: 70px;
+   padding-top: 70px;
+}
+
+ .btn-model-10 a {
+    text-decoration: none;
+    padding: 10px 60px;
+    background-color: #fbfdfe;
+    color: rgb(9, 9, 9);
+    border-radius: 5px;
+    display: inline-block;
+    font-family: -apple-system, Arial, sans-serif;
+}
+.foot-para{
+    font-size: 12px;
+    font-family: -apple-system, Arial, sans-serif;
+    text-align: center;
+    color:  #807777;
+    font-weight:400;
+    padding-top: 20px;
+    word-spacing: 1px;
+    line-height: 20px;
+}
+.footer{
+    display: flex;
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 510px;
+    font-size: 12px;
+    color:  #807777;
+    font-weight: bold;
+    font-family: -apple-system, Arial, sans-serif;
+    
+    
+}
+.fotter-last{
+    margin-bottom: 100px;
+}
+.one{
+    padding-right: 10px;
+}
+.two{
+    padding-right:10px ;
+}
+.three{
+    padding-right: 10px;
+}
+.four{
+    padding-right: 10px;
+}
+.five{
+    padding-right: 10px;
+}
+.six{
+    padding-right: 10px;
+}
+.seven{
+    padding-right: 10px;
+}
+.button-a{
+    background-color: #265fe4;
+}
+.last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: -apple-system, Arial, sans-serif;
+    position: fixed;
+    background-color: white;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+}
+.last-head{
+    font-size: 20px;
+}
